@@ -17,4 +17,14 @@ To run this code, you will need to add the following environment variables insta
 
 
 
+
+
+
+
+## Demo
+
+Insert gif or link to demo
+
+![Alt text](https://github.com/rohanailoni/Hand-Masking--1/blob/main/assets/frame%202021-08-20%2019-54-24.gif?raw=true)
+
   
